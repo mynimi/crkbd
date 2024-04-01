@@ -9,5 +9,14 @@ And put stuff like brackets and quotes into convenient places for coding.
 **This is a Work In Progress**
 
 Base Layer:
-![BaseLayer](/keymap-visuals/corne,-default-colemak-dh-international.svg)
+![BaseLayer](/keymap-visuals/corne,-default-colemak-dh-international.jpg)
+
+Layer 1:
+![Layer 1](/keymap-visuals/corne,-layer-1.jpg)
+
+Layer 2:
+![Layer 2](/keymap-visuals/corne,-layer-2.jpg)
+
+Layer 3:
+![Layer 3](/keymap-visuals/corne,-layer-3.jpg)
 
